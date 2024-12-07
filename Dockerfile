@@ -5,10 +5,10 @@ FROM python:3.12.3-slim
 LABEL maintainer="wzdnzd"
 
 # github personal access token
-ENV GIST_PAT=""
+ENV GIST_PAT="11BM7G7JI0hJ6CeB08ZppV_YzKgYmawAPBrfpwxpwsWPTPZGlgbc9WCueOcWVbFjvgNCD2V36W73XaTyh5"
 
 # github gist info, format: username/gist_id
-ENV GIST_LINK=""
+ENV GIST_LINK="tutatmp/49ce4a151e9eb3f68cd770dfefd01b8d"
 
 # customize airport listing url address
 ENV CUSTOMIZE_LINK=""
